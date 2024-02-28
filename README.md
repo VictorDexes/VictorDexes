@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**VictorDexes/VictorDexes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Victor, a third-year computer engineering student at CESI La Rochelle in France.
 
-Here are some ideas to get you started:
+## 🤝 Connect with Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [@VictorDEXES](https://www.linkedin.com/in/victor-dexes-523393200/)
+- Email: [victor.dexes@gmail.com](mailto:victor.dexes@gmail.com)
+
+## 🚀 Let's Collaborate!
+
+If you have any project ideas, suggestions, or just want to say hi, feel free to reach out. I'm always excited about collaborating and learning from others in the community!
+
+---
+
+Feel free to fork this template and customize it for your own GitHub profile. Don't forget to star this repository if you find it helpful! 😊
+
